@@ -85,17 +85,6 @@ nav {
     font-weight: var(--negrita);
   }
 
-  .containerr{
-
-  }
-  /* .menu-hamburguesa {
-    color: var(--primary-color);
-    font-size: 2rem;
-    border: 0;
-    background-color: transparent;
-    cursor: pointer;
-    display: none;
-  } */
   .d-block {
     width: 100%;
     height: 700px;
